@@ -3,3 +3,6 @@ config.wi
 bd.bkp
 *.ini
 *.bkp
+*.zip
+*.rar
+*.txt
