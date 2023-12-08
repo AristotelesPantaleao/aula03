@@ -1,8 +1,9 @@
+*.txt
+.env
+*.zip
+*.rar
 password.*
 config.ini
 bd.bkp
 *.ini
 *.bkp
-*.zip
-*.rar
-*.txt
